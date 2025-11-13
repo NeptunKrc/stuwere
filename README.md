@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+DB Diagram https://dbdiagram.io/d/stuwere-691569216735e1117093d85f
+
+
 First, run the development server:
 
 ```bash
